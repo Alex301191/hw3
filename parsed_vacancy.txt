@@ -1,0 +1,39 @@
+{
+    "vacancy": [
+        {
+            "vacancy name": "Ведущий разработчик Python (Senior Python Developer)",
+            "link": "https://spb.hh.ru/vacancy/81246630?from=vacancy_search_list&query=python",
+            "salary": "до350 000руб.",
+            "company name": "ООО ТН Цифровая Логистика",
+            "city": "Москва"
+        },
+        {
+            "vacancy name": "Старший программист-разработчик (Python/Django) / Senior back-end developer",
+            "link": "https://spb.hh.ru/vacancy/80002041?from=vacancy_search_list&query=python",
+            "salary": "200 000–300 000руб.",
+            "company name": "CATAPULTO.RU",
+            "city": "Москва"
+        },
+        {
+            "vacancy name": "Программист Python (Junior+/Middle)",
+            "link": "https://spb.hh.ru/vacancy/80913871?from=vacancy_search_list&query=python",
+            "salary": "80 000–100 000руб.",
+            "company name": "ООО РэилМатик",
+            "city": "Санкт-Петербург"
+        },
+        {
+            "vacancy name": "Python разработчик (Middle+)",
+            "link": "https://spb.hh.ru/vacancy/79248533?from=vacancy_search_list&query=python",
+            "salary": "300 000–350 000руб.",
+            "company name": "Бизнес-Азимут",
+            "city": "Москва"
+        },
+        {
+            "vacancy name": "Python backend developer",
+            "link": "https://spb.hh.ru/vacancy/80955032?from=vacancy_search_list&query=python",
+            "salary": "до400 000руб.",
+            "company name": "evrone.ru",
+            "city": "Москва"
+        }
+    ]
+}
